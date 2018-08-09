@@ -7,5 +7,5 @@
 testo normale
 
 * elenco puntato (l1)
- * elenco puntato (l2)
+  * elenco puntato (l2)
  
