@@ -15,5 +15,9 @@ Primo progetto con GitHub - Fontanella per animali domestici con arduino micro
 6. stepdown 12V-5V
 7. modulo infrarossi
 
+
 ## Funzionalità
+La fontanella é costituita da un recipiente in materiale plastico di dimensioni adeguate.
+La pompa preleva acqua dal fondo del recipiente tramite un tubo di pescaggio dotato di
+filtro da acquario.
 
