@@ -1,0 +1,5 @@
+link utili per lo sviluppo di progetti simili:
+
+https://www.adrirobot.it/sensori/pir_sensor/pir_sensor_hc-sr501_arduino.htm
+
+
